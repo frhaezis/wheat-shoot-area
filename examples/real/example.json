@@ -1,0 +1,27 @@
+{
+  "macro_version": "2.18.1",
+  "imagej_version": "1.54g",
+  "run_id": "WSA_1794301227632",
+  "source_sha256": "6e13be34c43a1c7b0ff6c1445b015791dc85e5399ed1c569173791daba71e20c",
+  "macro_sha256": "d6e68588ee38b60039f60e26963bac8b072581643af2b853349a63e415256bca",
+  "dimensions_px": [
+    3935,
+    3456
+  ],
+  "settings": {
+    "imagej_version": "1.54g",
+    "label_width_cm": "6",
+    "pots": "5",
+    "outer_margin_label_widths": "2",
+    "hue_min": "32",
+    "hue_max": "83",
+    "saturation_min": "60",
+    "saturation_max": "255",
+    "brightness_min": "35",
+    "brightness_max": "255",
+    "table_format": "TSV",
+    "decimal_comma": "0",
+    "save_qc": "1"
+  },
+  "validation": "Mask pixel counts match the exported full-frame and all five strip measurements."
+}

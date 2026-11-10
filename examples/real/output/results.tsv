@@ -1,0 +1,3 @@
+Image	Status	Width_px	Height_px	FrameLeaf_px	FrameLeaf_cm2	AnalyzedLeaf_px	AnalyzedLeaf_cm2	Pot1_px	Pot1_cm2	Pot2_px	Pot2_cm2	Pot3_px	Pot3_cm2	Pot4_px	Pot4_cm2	Pot5_px	Pot5_cm2	Mean_px	SD_px	SEM_px	Mean_cm2	SD_cm2	SEM_cm2	ReferenceWidth_px	Scale_cm_per_px
+"example.JPG"	accepted	3935	3456	930095	217.887462	929960	217.855837	181034	42.409688	176954	41.453892	197453	46.256063	185023	43.344166	189496	44.392027	185992.000000	7918.944153	3541.459487	43.571167	1.855121	0.829635	392.011479424	0.015305674
+

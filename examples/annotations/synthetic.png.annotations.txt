@@ -1,0 +1,7 @@
+status=accepted
+scale_x1=270
+scale_y1=270
+scale_x2=330
+scale_y2=270
+points_x=500,100,400,200,300
+points_y=240,240,240,240,240
